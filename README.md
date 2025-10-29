@@ -1,12 +1,13 @@
 # HuluGuard HUD
 
 A draggable, themeable HUD overlay for Hulu’s web player with:
+- Rewind boundary guard so you don’t get thrown back into an ad break you already watched
 - Snap-to-grid docking
 - Group-drag of panels
 - PiP mini HUD
 - Live RGB/HSL theming + alpha sliders
 - Session stats / ad pod timeline
-- Rewind boundary guard so you don’t get thrown back into an ad break you already watched
+
 
 **This script does NOT skip, block, mute, or fast-forward ads.**  
 It only prevents accidental scrubbing *backward into* an ad pod you already fully watched.
