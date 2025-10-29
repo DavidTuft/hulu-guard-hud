@@ -1,0 +1,2 @@
+# Force LF so userscript diffs are sane across OSes
+* text=auto eol=lf
