@@ -1,0 +1,12 @@
+# Node / tooling stuff just in case someone clones and runs local helpers
+node_modules/
+*.log
+*.tmp
+.DS_Store
+*.local.js
+*.local.json
+
+# OS/editor cruft
+Thumbs.db
+.vscode/
+.idea/
