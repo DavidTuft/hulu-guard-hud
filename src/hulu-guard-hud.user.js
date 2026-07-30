@@ -2012,19 +2012,6 @@ function fixMainHUDAlpha() {
 
 
 
-})();// ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
-// @version      2025-10-29
-// @description  try to take over the world!
-// @author       You
-// @match        https://*/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-// @grant        none
-// ==/UserScript==
-
-(function() {
-    'use strict';
-
-    // Your code here...
 })();
+
+
